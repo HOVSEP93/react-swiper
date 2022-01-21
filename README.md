@@ -1,5 +1,3 @@
-LIVE DEMO: https://hovsep93.github.io/react-swiper/
-
 
 # Getting Started with Create React App
 
