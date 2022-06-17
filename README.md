@@ -3,6 +3,9 @@ My YT channel: https://youtu.be/3MS8ppr__8U
 
 Buy me a burger: https://www.buymeacoffee.com/Hovsep93
 
+Not:  swiper version
+"swiper": "^6.6.2"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
